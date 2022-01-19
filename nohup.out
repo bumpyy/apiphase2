@@ -1,0 +1,7 @@
+[32mStarting Laravel development server:[39m http://10.x.x.12:8010
+<br />
+<b>Warning</b>:  Unknown: php_network_getaddresses: getaddrinfo failed: No such host is known.  in <b>Unknown</b> on line <b>0</b><br />
+[Sun Jan 16 23:34:07 2022] PHP Warning:  Unknown: php_network_getaddresses: getaddrinfo failed: No such host is known.  in Unknown on line 0
+[Sun Jan 16 23:34:07 2022] Failed to listen on 10.x.x.12:8010 (reason: php_network_getaddresses: getaddrinfo failed: No such host is known. )
+[32mStarting Laravel development server:[39m http://192.168.1.6:80
+[Sun Jan 16 23:34:25 2022] PHP 8.0.10 Development Server (http://192.168.1.6:80) started
